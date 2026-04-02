@@ -14,6 +14,12 @@ Analyze customer retention, churn, and high-value customers.
 - Churn Rate
 - Customer Lifetime Value
 
+## Dashboard
+<img width="509" height="284" alt="Trends-Overview" src="https://github.com/user-attachments/assets/e2d8b8e9-c1c0-4cbc-bcbb-73fa7e0aa720" />
+<img width="521" height="293" alt="Retention-Analysis" src="https://github.com/user-attachments/assets/e54af543-1e0f-4c6a-a0db-f26e724aaa4e" />
+<img width="505" height="286" alt="High-Value-Customer" src="https://github.com/user-attachments/assets/508b0899-a51f-4b52-9b9e-6cc870065d57" />
+
+
 ## Insights
 - 65% customers are repeat buyers
 - High churn in South region
